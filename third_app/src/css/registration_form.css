@@ -1,0 +1,20 @@
+.flexContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 50px;
+}
+
+.img{
+    width: 600px;
+    height: 600px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.formContainer {
+    margin-top: 200px;
+    width: 750px;
+    height: 320px;
+    padding-top: 20px;
+    box-shadow: rgba(30, 2, 244, 0.788) 0px 5px 15px;
+}
